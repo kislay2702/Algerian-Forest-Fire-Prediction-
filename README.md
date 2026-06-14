@@ -139,4 +139,4 @@ The web application accepts input parameters and predicts the Fire Weather Index
 ### Kislay
 
 Machine Learning & Flask Deployment Project
-
+AWS Beanstalk Deplyment Link: http://algerian-forest-fire-prediction-env.eba-hzffurmm.ap-southeast-2.elasticbeanstalk.com/predict
